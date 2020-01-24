@@ -69,7 +69,7 @@
     ],
     "license": "BSD-3-Clause",
     "main": "js/babel-plugin-transform-line.js",
-    "name": "babel-plugin-transform-line",
+    "name": "@cylerian/babel-plugin-transform-line",
     "nyc": {
         "branches": 100,
         "check-coverage": false,
